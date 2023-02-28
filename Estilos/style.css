@@ -54,3 +54,12 @@ section#lg > div#fml {
     display: block;
     padding: 10px;
 }
+
+div#fml > h1 {
+    text-align: center;
+    margin-bottom: 10px;
+}
+
+div#fml > p {
+    font-size: 0.8em;
+}

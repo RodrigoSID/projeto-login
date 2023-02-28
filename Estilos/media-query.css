@@ -33,13 +33,13 @@
     }
     
     section#lg > div#ima {
-        float: left;
+        float: right;
         width: 50%;
         height: 100%;
     }
 
     section#lg > div#fml {
-        float: right;
+        float: left;
         width: 50%;
     }
 }
